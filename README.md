@@ -23,7 +23,7 @@
 
 <br>
 
-  <img align="center" alt="NCode-TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+<img align="center" alt="NCode-TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 
 # 🛠️ Ferramentas & Plataformas
 
