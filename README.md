@@ -46,6 +46,7 @@ Escola Técnica Estadual Professor Milton Gazzetti\
 2024 - 2026 · 3 anos
   
 <br>
+
 # ✉️ Contatos
 
 <br>
