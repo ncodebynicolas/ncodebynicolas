@@ -39,7 +39,7 @@
 
 <br>
 
-<img align="left" height="50px" width="50px" alt="ETEC" src="https://github.com/AnaProgramando/AnaProgramando/blob/bb51d029022ab92f38db49c2be5d993e73f589b5/etec.png"/>
+<img align="left" height="50px" width="50px" alt="ETEC" src="https://github.com/ncodebynicolas/ncodebynicolas/blob/main/etec.png"/>
 
 **Habilitação Profissional de Técnico em Informática para internet**\
 Escola Técnica Estadual Professor Milton Gazzetti\
